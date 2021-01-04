@@ -5,4 +5,3 @@ import NumberLister from './components/NumberLister';
 
 ReactDom.render(<NumberLister />, document.getElementById('root'));
 
-//when add is clicked, the whole page disappears...
